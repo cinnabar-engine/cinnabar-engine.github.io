@@ -12,5 +12,5 @@ Add this to /etc/pacman.conf
 
 ```
 [cinnabar-ppa]
-Server = https://cinnabar-engine.github.io//arch
+Server = https://cinnabar-engine.github.io/arch
 ```
