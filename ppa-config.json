@@ -1,0 +1,9 @@
+{
+	"repos": [
+
+	],
+	"distros": [
+		["debian","*.deb"]
+		["arch","*.pkg.*"]
+	]
+}
