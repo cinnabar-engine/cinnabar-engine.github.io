@@ -1,0 +1,7 @@
+Package: libglfw3-all
+Version: 0.1.0
+Section: development
+Architecture: all
+Maintainer: tumblegamer@gmail.com
+Description: GLFW wayland and X11 versions
+Depends: libglfw3 | libglfw3-wayland
